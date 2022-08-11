@@ -7,13 +7,13 @@ We understand how impactful the pandemic was in transforming our primary, second
 - Sign Up
 - Student Login
 - Teacher Login
-<b>Student</b>
+<br><b>Student</b>
 - Home: Details
 - Add a note: Add a new note, view your notes, delete your notes
 - Look for notes: Check notes publicly available to everyone (with search)
 - Groups: list of groups student is in, add and view notes exclusive to the group
 - Schedule: weekly calendar that lets you add events
-<b>Teacher</b>
+<br><b>Teacher</b>
 - Home: Details
 - Add a note: Add a new note, view your notes, delete your notes
 - Look for notes: Check notes publicly available to everyone (with search)
